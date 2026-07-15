@@ -1,5 +1,5 @@
 <img align="center" src="https://file.garden/acXmjffoWV1tEQbj/DIVIDERS/001.%20block%20divider" width="700">
-<img align="left" src="https://file.garden/acXmjffoWV1tEQbj/GRAPHICS/001.%20dess%20graphic" witdh="50" height="390">
+<img align="left" src="https://file.garden/acXmjffoWV1tEQbj/GRAPHICS/001.%20dess%20graphic" height="390">
 
 ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎  ‎ ‎ <img src="https://file.garden/acXmjffoWV1tEQbj/GRAPHICS/002.%20guitar%20graphic" witdh="100" height="95"/>
 
@@ -9,7 +9,7 @@
   ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎   ‎ ‎  ‎ $\color{#9e352f}\text{icon}$ $\color{#9e352f}\text{:}$  $\color{#9e352f}\text{@ lucethebat}$
  ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ 
 
-<img src="https://file.garden/acXmjffoWV1tEQbj/DIVIDERS/001.%20red%20divider"/>
+<img src="https://file.garden/acXmjffoWV1tEQbj/DIVIDERS/001.%20red%20divider" width="280"/>
 
 ‎ ‎ ‎ ‎   ‎ ‎  ‎ ‎‎ ‎  ‎ ‎ ‎ ‎   ‎ ‎ ‎‎  ‎ $\color{#28324f}\text{dearest ‎ ‎ december}$
  <br>

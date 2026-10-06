@@ -1,1 +1,1 @@
-<img align="center" src="https://file.garden/acXmjffoWV1tEQbj/HEADERS/001.%20header" width="700">
+<img align="center" src="https://file.garden/acXmjffoWV1tEQbj/HEADERS/001.%20header">
